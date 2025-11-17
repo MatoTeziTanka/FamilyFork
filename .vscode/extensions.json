@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    // JavaScript/Frontend Development
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "dsznajder.es7-react-js-snippets",
+    "christian-kohler.path-intellisense",
+    // General/Git
+    "eamodio.gitlens"
+  ]
+}
